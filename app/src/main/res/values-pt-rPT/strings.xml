@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="noapp_heading">Aplicação não encontrada.</string>
+    <string name="offline_description">Clica aqui para tentar outra vez!</string>
+    <string name="offline_heading">Estás offline.</string>
+    <string name="noapp_description">Nenhuma aplicação neste dispositivos consegue fazer essa acção.</string>
+</resources>
